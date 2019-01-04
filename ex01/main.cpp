@@ -31,7 +31,7 @@ int main() {
             displaySearch(Users, i);
             std::cout << "Which contact would you like to see ? \n";
             std::cin >> j;
-            if (j > 7 || j < 0)
+            if ((j > 7 || j < 0) || (j > i))
                 std::cout << "Incorrect input !\n";
             else
                 displayDetails(Users[j]);

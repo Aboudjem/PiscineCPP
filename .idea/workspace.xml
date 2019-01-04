@@ -10,49 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72ab6a59-cd10-4cc1-a0dd-0f3a8c46478f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ex01/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/.idea/ex01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/PhoneBook.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ex01/PhoneBook.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/PhoneBook.h.gch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/PhoneBook.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/ex01/PhoneBook.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/PhoneBook.hpp.gch" beforeDir="false" afterPath="$PROJECT_DIR$/ex01/PhoneBook.hpp.gch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/3.12.1/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/3.12.1/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/3.12.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/3.12.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/3.12.1/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/3.12.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/3.12.1/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/3.12.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/3.12.1/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/ex01.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/ex01.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/ex01.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/ex01.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/ex01.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/ex01.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/ex01.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01/cmake-build-debug/ex01.cbp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ex01/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ex01/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,14 +42,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Makefile" value="310" />
-          <entry key="cpp" value="2369" />
+          <entry key="cpp" value="2395" />
           <entry key="hpp" value="151" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ObjectiveC" value="2520" />
+          <entry key="ObjectiveC" value="2546" />
           <entry key="PLAIN_TEXT" value="319" />
         </counts>
       </usages-collector>
@@ -121,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ex01/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="68" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
+            <state relative-caret-position="615">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -237,7 +194,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546618691708</updated>
-      <workItem from="1546618692901" duration="13734000" />
+      <workItem from="1546618692901" duration="14419000" />
     </task>
     <task id="LOCAL-00001" summary="Ex01 Done">
       <created>1546633177939</created>
@@ -250,7 +207,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13734000" />
+    <option name="totallyTimeSpent" value="14419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1305" y="0" width="1255" height="1440" extended-state="0" />
@@ -317,8 +274,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex01/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="68" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
+        <state relative-caret-position="615">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
