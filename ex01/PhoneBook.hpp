@@ -32,7 +32,7 @@ class User {
 		~User(void);
 		void Add(void);
 };
-
+void    displayDetails(User Users);
 void    fillSpace(std::string str);
 void    displaySearch(User *Users, int i);
 #endif

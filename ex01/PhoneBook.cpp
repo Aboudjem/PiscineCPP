@@ -18,6 +18,7 @@ void displaySearch(User *Users, int i) {
     int id;
 
     id = 0;
+    std::cout << "     Index| FirstName|  LastName|  NickName" << std::endl;
     std::cout << "-------------------------------------------" << std::endl;
     while (id < i) {
         std::cout << "         " << id << "|";
@@ -32,6 +33,23 @@ void displaySearch(User *Users, int i) {
         id++;
     }
 }
+
+void displayDetails(User Users) {
+    std::cout <<
+    "\nFirstname:         " << Users.firstname <<
+    "\nLastname:          " << Users.lastname <<
+    "\nNickname:          " << Users.nickname <<
+    "\nLogin:             " << Users.login <<
+    "\nPostal address:    " << Users.postaladdress <<
+    "\nMail address:      " << Users.mail <<
+    "\nPhone Number:      " << Users.phone <<
+    "\nBirth Date:        " << Users.birth <<
+    "\nFavorite Meal:     " << Users.meal <<
+    "\nUnderwear Color:   " << Users.underwear <<
+    "\nDarkest Secret:    " << Users.secret
+    << std::endl;
+}
+
 
 void fillSpace(std::string str) {
     int j = 0;
