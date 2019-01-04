@@ -28,9 +28,11 @@ class User {
 		std::string meal;
 		std::string underwear;
 		std::string secret;
-		
 		User(void);
 		~User(void);
+		void Add(void);
 };
 
+void    fillSpace(std::string str);
+void    displaySearch(User *Users, int i);
 #endif
