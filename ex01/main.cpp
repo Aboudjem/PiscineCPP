@@ -37,7 +37,7 @@ int main() {
                 displayDetails(Users[j]);
         }
         else if ((select == "SEARCH" || select == "search" || select == "Search") && (i == -1))
-            std::cout << "PhoneBook is empty"
+            std::cout << "PhoneBook is empty";
         else if (select == "EXIT" || select == "exit" || select == "Exit")
             exit(0);
     }
