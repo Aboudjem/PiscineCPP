@@ -16,7 +16,7 @@
 int main() {
     std::cout << "Welcome To The PhoneBook App !\n";
     User Users[8];
-    int i = 0;
+    int i = -1;
     int j = 0;
     std::string select;
     while (1) {
@@ -26,8 +26,8 @@ int main() {
             if (i > 7)
                 std::cout << "Contacts max (8) reached !\n";
             else
-                Users[i++].Add();
-        } else if (select == "SEARCH" || select == "search" || select == "Search") {
+                Users[++i].Add();
+        } else if ((select == "SEARCH" || select == "search" || select == "Search") && (i != -1)) {
             displaySearch(Users, i);
             std::cout << "Which contact would you like to see ? \n";
             std::cin >> j;
