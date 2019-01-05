@@ -10,6 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72ab6a59-cd10-4cc1-a0dd-0f3a8c46478f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01/PhoneBook" beforeDir="false" afterPath="$PROJECT_DIR$/ex01/PhoneBook" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex01/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ex01/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,12 +65,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="87" />
+          <entry key="cpp" value="123" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ObjectiveC" value="87" />
+          <entry key="ObjectiveC" value="123" />
         </counts>
       </usages-collector>
     </session>
@@ -96,8 +98,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ex01/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+            <state relative-caret-position="259">
+              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -212,7 +214,7 @@
       <option name="presentableId" value="Default" />
       <updated>1546618691708</updated>
       <workItem from="1546618692901" duration="14419000" />
-      <workItem from="1546714719977" duration="1163000" />
+      <workItem from="1546714719977" duration="2950000" />
     </task>
     <task id="LOCAL-00001" summary="Ex01 Done">
       <created>1546633177939</created>
@@ -225,7 +227,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15582000" />
+    <option name="totallyTimeSpent" value="17369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -292,8 +294,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex01/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+        <state relative-caret-position="259">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
         </state>
       </provider>
     </entry>
