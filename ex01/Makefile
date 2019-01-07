@@ -1,23 +1,23 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    Makefile                                           :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: aboudjem <marvin@42.fr>                    +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2019/01/03 14:58:40 by aboudjem          #+#    #+#              #
-#    Updated: 2019/01/03 15:08:02 by aboudjem         ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
+NAME = PhoneBook
+FLAG = -Wall -Wextra -Werror
+CC = clang++
+SRCS := PhoneBook.cpp \
+	    main.cpp \
 
-SRC = PhoneBook.cpp main.cpp
-INC = PhoneBook.hpp
-CFLAGS = -Wall -Werror -Wextra
 
-all: PhoneBook
+OBJS := $(SRCS:.cpp=.o)
 
-PhoneBook: $(OBJS) $(INC)
-			@clang++ $(CFLAGS) $(SRC) -o $@
+all: $(NAME);
+
+$(NAME): $(OBJS)
+	   @$(CC) $^ $(FLAG) -o $(NAME)
+	      @printf "Compilation done\n"
+
+%.o: %.cpp
+	   @$(CC) $< -c $(FLAG) -o $@
+
 clean:
-			@rm -f PhoneBook
-re: clean all
+	   @rm -f *.o
+fclean: clean
+	   @rm -f $(NAME)
+re: fclean all ;
