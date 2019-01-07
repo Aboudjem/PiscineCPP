@@ -6,7 +6,7 @@
 /*   By: aboudjem <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/01/04 21:18:40 by aboudjem          #+#    #+#             */
-/*   Updated: 2019/01/07 16:04:40 by aboudjem         ###   ########.fr       */
+/*   Updated: 2019/01/07 17:45:17 by aboudjem         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,6 +31,8 @@ int main() {
 				std::cout << "Contacts max (8) reached !\n";
 			else
 				Users[i++].Add();
+			if(std::cin.eof())
+				exit(0);
 		} else if (select == "SEARCH" || select == "search" || select == "Search") {
 			if(o == 1)
 			{
@@ -38,13 +40,9 @@ int main() {
 				std::cout << "Which contact would you like to see ? \n";
 				std::cin >> j;
 				if (((j > 7 || j < 0) || (j >= i)))
-				{
 					std::cout << "Incorrect input !\n";
-				}
-				else if (std::cin.good()){
-
+				else if (std::cin.good())
 					displayDetails(Users[j]);
-				}
 				if (std::cin.eof())
 					exit(0);
 			}
