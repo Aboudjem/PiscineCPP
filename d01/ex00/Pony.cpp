@@ -15,8 +15,8 @@
 void Pony::Present(std::string _name, int _age, std::string _color)
 {
 	std::cout << "Hello my name is " << _name << ", I'm a "
-	<< _color << " pony my age is " << _age << std::endl;
-	}
+		<< _color << " pony my age is " << _age << std::endl;
+}
 
 Pony::Pony(std::string _name, int _age, std::string _color) : name(_name), age(_age), color(_color)
 {
