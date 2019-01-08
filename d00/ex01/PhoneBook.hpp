@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   PhoneBook.h                                        :+:      :+:    :+:   */
+/*   PhoneBook.hpp                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: aboudjem <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2019/01/03 17:01:04 by aboudjem          #+#    #+#             */
-/*   Updated: 2019/01/03 18:14:13 by aboudjem         ###   ########.fr       */
+/*   Created: 2019/01/08 13:47:02 by aboudjem          #+#    #+#             */
+/*   Updated: 2019/01/08 13:47:05 by aboudjem         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,7 @@
 # define PHONEBOOK_H
 
 #include <iostream>
+#include <iomanip>
 
 class User {
 	public:
@@ -33,6 +34,6 @@ class User {
 		void Add(void);
 };
 void    displayDetails(User Users);
-void    fillSpace(std::string str);
+std::string    CheckSize(std::string str);
 void    displaySearch(User *Users, int i);
 #endif

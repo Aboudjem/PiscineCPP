@@ -5,13 +5,29 @@
 #                                                     +:+ +:+         +:+      #
 #    By: aboudjem <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2019/01/03 14:58:40 by aboudjem          #+#    #+#              #
-#    Updated: 2019/01/03 15:08:02 by aboudjem         ###   ########.fr        #
+#    Created: 2019/01/08 13:49:59 by aboudjem          #+#    #+#              #
+#    Updated: 2019/01/08 13:50:03 by aboudjem         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-megaphone:	megaphone.cpp
-			@clang++ -Wall -Werror -Wextra -o megaphone megaphone.cpp
+NAME = megaphone
+FLAG = -Wall -Wextra -Werror
+CC = clang++
+SRCS := megaphone.cpp
+
+OBJS := $(SRCS:.cpp=.o)
+
+all: $(NAME);
+
+$(NAME): $(OBJS)
+	   @$(CC) $^ $(FLAG) -o $(NAME)
+	      @printf "Compilation done\n"
+
+%.o: %.cpp
+	   @$(CC) $< -c $(FLAG) -o $@
 
 clean:
-			@rm -f megaphone
+	   @rm -f *.o
+fclean: clean
+	   @rm -f $(NAME)
+re: fclean all ;
