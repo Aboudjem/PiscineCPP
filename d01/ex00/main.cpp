@@ -15,11 +15,11 @@
 
 void ponyOnTheStack(){
 
-	Pony little("Little", 5, "red");
+	Pony little("StackPony", 5, "red");
 }
 
 void ponyOnTheHeap(){
-	Pony *big = new Pony("Big", 10, "blue");
+	Pony *big = new Pony("HeaPony", 10, "blue");
 	delete big;
 }
 int main () {

@@ -1,18 +1,16 @@
 #include <iostream>
+#include <time.h>
 
 class Zombie {
-	std::string type;
-	std::string name;
-	announce(void);
-	Zombie(void);
-	~Zombie(void);
-		
+public:
+    void announce(void);
+    Zombie(std::string _name, std::string _type);
+    ~Zombie(void);
+
+private:
+    std::string _type;
+    std::string _name;
+
 };
 
-class ZombieEvent {
-void	setZombieType(std::string type);
-	Zombie* new newZombie(std::string name);
-}
-
-void randomChump(void);
 

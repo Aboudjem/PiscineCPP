@@ -19,5 +19,5 @@ class Pony {
 		std::string color;
 		Pony(std::string name, int age, std::string color);
 		~Pony(void);
-		void Present(std::string name, int age, std::string color);
+		void Talking(std::string name, int age, std::string color);
 };
