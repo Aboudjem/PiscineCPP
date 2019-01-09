@@ -1,8 +1,11 @@
 #include "Zombie.hpp"
 
-void Zombie::announce(void) {
+void Zombie::setZombieType(std::string type) {
+    this->_type = type;
+}
 
-std::cout << "<" << this->_name << "(" << this->_type << ")> Braiiiiiiinnnssss..." << std::endl;
+void Zombie::announce(void) {
+    std::cout << "<" << this->_name << "(" << this->_type << ")> Braiiiiiiinnnssss..." << std::endl;
 }
 
 Zombie::Zombie(std::string name, std::string type) : _name(name), _type(type) {
@@ -10,6 +13,14 @@ Zombie::Zombie(std::string name, std::string type) : _name(name), _type(type) {
     return;
 }
 
-Zombie::~Zombie(void){
-    return ;
+Zombie::Zombie(void) {
+    std::string names[11] = {"Abc", "Def", "Ghi", "Jkl", "Mno",
+                             "Pqr", "Stu", "Vwx", "Xyz", "123", "321"};
+    this->_name = names[(time(NULL) * rand()) % 11];
+    this->setZombieType("Zebi");
+    return;
+}
+
+Zombie::~Zombie(void) {
+    return;
 }

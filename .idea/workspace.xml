@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated />
   </component>
   <component name="CMakeSettings">
@@ -10,18 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72ab6a59-cd10-4cc1-a0dd-0f3a8c46478f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/d01/ex04/ex04.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d00/ex01/PhoneBook.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/d00/ex01/PhoneBook.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex00/.Pony.cpp.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex00/.Pony.hpp.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex00/.main.cpp.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex00/Pony.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex00/Pony.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex00/Pony.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex00/Pony.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/d01/ex00/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex00/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex02/Zombie.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex02/Zombie.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex02/Zombie.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex02/Zombie.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex02/ZombieEvent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex02/ZombieEvent.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex02/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex02/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d01/ex03/Zombie.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex03/Zombie.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d01/ex03/Zombie.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex03/Zombie.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d01/ex03/ZombieHorde.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex03/ZombieHorde.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d01/ex03/ZombieHorde.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex03/ZombieHorde.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d01/ex03/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/d01/ex03/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex03/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,141 +27,102 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-369524454">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="Makefile" value="4" />
-          <entry key="cpp" value="30" />
-          <entry key="hpp" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="ObjectiveC" value="43" />
-          <entry key="PLAIN_TEXT" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Makefile" value="371" />
-          <entry key="cpp" value="4575" />
-          <entry key="hpp" value="383" />
-          <entry key="txt" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="ObjectiveC" value="4958" />
-          <entry key="PLAIN_TEXT" value="380" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1662725052">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="cpp" value="123" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="ObjectiveC" value="123" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="PiscineCPP" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d00/ex01/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/d01/ex03/ZombieHorde.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d01/ex03/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d01/ex03/ZombieHorde.hpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d01/ex03/Zombie.hpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d01/ex03/Zombie.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d00/ex01/PhoneBook.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d00/ex01/PhoneBook.hpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/d01/ex06/HumanA.cpp">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/d01/ex06/HumanA.hpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/d01/ex06/main.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/d01/ex06/Weapon.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/d01/ex06/HumanA.hpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/d01/ex06/HumanB.cpp">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/d01/ex06/HumanB.hpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret selection-end-line="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/d01/ex06/Weapon.hpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/d01/ex00/Pony.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="420">
+                  <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/d01/ex00/main.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="420">
+                  <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -190,7 +149,6 @@
         <option value="$PROJECT_DIR$/d00/ex00/Makefile" />
         <option value="$PROJECT_DIR$/d00/ex00/megaphone.cpp" />
         <option value="$PROJECT_DIR$/d01/ex00/Pony.hpp" />
-        <option value="$PROJECT_DIR$/d01/ex00/main.cpp" />
         <option value="$PROJECT_DIR$/d01/ex00/Pony.cpp" />
         <option value="$PROJECT_DIR$/d00/ex01/PhoneBook.cpp" />
         <option value="$PROJECT_DIR$/d01/ex02/ZombieEvent.hpp" />
@@ -198,23 +156,29 @@
         <option value="$PROJECT_DIR$/d01/ex02/Zombie.cpp" />
         <option value="$PROJECT_DIR$/d01/ex02/main.cpp" />
         <option value="$PROJECT_DIR$/d01/ex02/ZombieEvent.cpp" />
-        <option value="$PROJECT_DIR$/d01/ex03/ZombieHorde.hpp" />
-        <option value="$PROJECT_DIR$/d01/ex03/main.cpp" />
-        <option value="$PROJECT_DIR$/d01/ex03/Zombie.cpp" />
         <option value="$PROJECT_DIR$/d01/ex03/ZombieHorde.cpp" />
+        <option value="$PROJECT_DIR$/d01/ex03/Zombie.cpp" />
+        <option value="$PROJECT_DIR$/d01/ex03/main.cpp" />
+        <option value="$PROJECT_DIR$/d01/ex03/ZombieHorde.hpp" />
+        <option value="$PROJECT_DIR$/d01/ex03/Zombie.hpp" />
+        <option value="$PROJECT_DIR$/d01/ex04/ex04.cpp" />
+        <option value="$PROJECT_DIR$/d01/ex05/Human.cpp" />
+        <option value="$PROJECT_DIR$/d01/ex05/main.cpp" />
+        <option value="$PROJECT_DIR$/d01/ex05/Human.hpp" />
+        <option value="$PROJECT_DIR$/d01/ex05/Brain.hpp" />
+        <option value="$PROJECT_DIR$/d01/ex05/Brain.cpp" />
+        <option value="$PROJECT_DIR$/d01/ex00/main.cpp" />
+        <option value="$PROJECT_DIR$/d01/ex06/Weapon.cpp" />
+        <option value="$PROJECT_DIR$/d01/ex06/main.cpp" />
+        <option value="$PROJECT_DIR$/d01/ex06/Weapon.hpp" />
+        <option value="$PROJECT_DIR$/d01/ex06/HumanB.hpp" />
+        <option value="$PROJECT_DIR$/d01/ex06/HumanA.hpp" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="790" />
-    <option name="width" value="1770" />
+    <option name="width" value="2560" />
     <option name="height" value="1440" />
   </component>
   <component name="ProjectView">
@@ -233,13 +197,25 @@
             <path>
               <item name="PiscineCPP" type="b2602c69:ProjectViewProjectNode" />
               <item name="PiscineCPP" type="462c0819:PsiDirectoryNode" />
-              <item name="d00" type="462c0819:PsiDirectoryNode" />
+              <item name="d01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PiscineCPP" type="b2602c69:ProjectViewProjectNode" />
               <item name="PiscineCPP" type="462c0819:PsiDirectoryNode" />
-              <item name="d00" type="462c0819:PsiDirectoryNode" />
-              <item name="ex01" type="462c0819:PsiDirectoryNode" />
+              <item name="d01" type="462c0819:PsiDirectoryNode" />
+              <item name="ex00" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PiscineCPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PiscineCPP" type="462c0819:PsiDirectoryNode" />
+              <item name="d01" type="462c0819:PsiDirectoryNode" />
+              <item name="ex02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PiscineCPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PiscineCPP" type="462c0819:PsiDirectoryNode" />
+              <item name="d01" type="462c0819:PsiDirectoryNode" />
+              <item name="ex06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -278,7 +254,9 @@
       <workItem from="1546618692901" duration="14419000" />
       <workItem from="1546714719977" duration="3440000" />
       <workItem from="1546950509862" duration="3077000" />
-      <workItem from="1546958688862" duration="9648000" />
+      <workItem from="1546958688862" duration="9860000" />
+      <workItem from="1547049523241" duration="5670000" />
+      <workItem from="1547059183461" duration="5554000" />
     </task>
     <task id="LOCAL-00001" summary="Ex01 Done">
       <created>1546633177939</created>
@@ -291,7 +269,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30584000" />
+    <option name="totallyTimeSpent" value="42020000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -303,12 +281,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="780" y="0" width="1780" height="1440" extended-state="0" />
+    <frame x="790" y="0" width="1770" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936628" visible="true" weight="0.23130034" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936628" visible="true" weight="0.2800926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.5006337" side_tool="true" visible="true" weight="0.23130034" />
+      <window_info id="Favorites" order="2" sideWeight="0.5006337" side_tool="true" weight="0.23130034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -325,12 +303,29 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49936628" visible="true" weight="0.2800926" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5006337" side_tool="true" weight="0.23130034" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329927" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.42408758" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ex01 Done" />
@@ -377,38 +372,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex00/main.cpp">
+    <entry file="file://$PROJECT_DIR$/d00/ex01/PhoneBook.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        <state relative-caret-position="495">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex02/main.cpp">
+    <entry file="file://$PROJECT_DIR$/d00/ex01/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="299">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex02/Zombie.cpp">
+    <entry file="file://$PROJECT_DIR$/d00/ex01/PhoneBook.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        <state relative-caret-position="119">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex02/ZombieEvent.cpp">
+    <entry file="file://$PROJECT_DIR$/d01/ex03/Zombie.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex02/ZombieEvent.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="45">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -419,31 +407,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d00/ex01/main.cpp">
+    <entry file="file://$PROJECT_DIR$/d01/ex05/Human.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="225">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d00/ex01/PhoneBook.hpp">
+    <entry file="file://$PROJECT_DIR$/d01/ex05/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d00/ex01/PhoneBook.cpp">
+    <entry file="file://$PROJECT_DIR$/d01/ex05/Brain.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex03/Zombie.cpp">
+    <entry file="file://$PROJECT_DIR$/d01/ex05/Brain.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex02/ZombieEvent.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex02/ZombieEvent.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex04/ex04.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex03/ZombieHorde.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex03/ZombieHorde.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex03/Zombie.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex03/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex05/Human.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex06/HumanB.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex06/HumanA.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex01/ex01.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex02/Zombie.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex02/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -454,31 +521,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex03/Zombie.hpp">
+    <entry file="file://$PROJECT_DIR$/d01/ex00/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="420">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex03/ZombieHorde.hpp">
+    <entry file="file://$PROJECT_DIR$/d01/ex06/Weapon.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex03/main.cpp">
+    <entry file="file://$PROJECT_DIR$/d01/ex06/Weapon.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex03/ZombieHorde.cpp">
+    <entry file="file://$PROJECT_DIR$/d01/ex06/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex06/HumanB.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex06/HumanA.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
