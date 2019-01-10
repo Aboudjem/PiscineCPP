@@ -10,16 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72ab6a59-cd10-4cc1-a0dd-0f3a8c46478f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/d01/ex04/ex04.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex00/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex00/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex03/Zombie.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex03/Zombie.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex03/Zombie.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex03/Zombie.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex03/ZombieHorde.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex03/ZombieHorde.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex03/ZombieHorde.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex03/ZombieHorde.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex03/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/d01/ex03/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex03/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d01/ex06/HumanA.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/d01/ex06/HumanA.hpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,34 +26,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d01/ex06/HumanA.cpp">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d01/ex06/HumanA.hpp">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/d01/ex06/main.cpp">
+            <entry file="file://$PROJECT_DIR$/d02/ex00/Fixed.class.hpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d01/ex06/Weapon.cpp">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+                <state relative-caret-position="75">
+                  <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
@@ -69,53 +38,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/d01/ex06/HumanA.hpp">
+            <entry file="file://$PROJECT_DIR$/d02/ex00/Fixed.class.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d01/ex06/HumanB.cpp">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d01/ex06/HumanB.hpp">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret selection-end-line="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d01/ex06/Weapon.hpp">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d01/ex00/Pony.cpp">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="420">
-                  <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d01/ex00/main.cpp">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="420">
-                  <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+                <state relative-caret-position="375">
+                  <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
                 </state>
               </provider>
             </entry>
@@ -173,6 +101,8 @@
         <option value="$PROJECT_DIR$/d01/ex06/Weapon.hpp" />
         <option value="$PROJECT_DIR$/d01/ex06/HumanB.hpp" />
         <option value="$PROJECT_DIR$/d01/ex06/HumanA.hpp" />
+        <option value="$PROJECT_DIR$/d02/ex00/Fixed.class.hpp" />
+        <option value="$PROJECT_DIR$/d02/ex00/Fixed.class.cpp" />
       </list>
     </option>
   </component>
@@ -197,25 +127,13 @@
             <path>
               <item name="PiscineCPP" type="b2602c69:ProjectViewProjectNode" />
               <item name="PiscineCPP" type="462c0819:PsiDirectoryNode" />
-              <item name="d01" type="462c0819:PsiDirectoryNode" />
+              <item name="d02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PiscineCPP" type="b2602c69:ProjectViewProjectNode" />
               <item name="PiscineCPP" type="462c0819:PsiDirectoryNode" />
-              <item name="d01" type="462c0819:PsiDirectoryNode" />
+              <item name="d02" type="462c0819:PsiDirectoryNode" />
               <item name="ex00" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PiscineCPP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PiscineCPP" type="462c0819:PsiDirectoryNode" />
-              <item name="d01" type="462c0819:PsiDirectoryNode" />
-              <item name="ex02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PiscineCPP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PiscineCPP" type="462c0819:PsiDirectoryNode" />
-              <item name="d01" type="462c0819:PsiDirectoryNode" />
-              <item name="ex06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,6 +175,9 @@
       <workItem from="1546958688862" duration="9860000" />
       <workItem from="1547049523241" duration="5670000" />
       <workItem from="1547059183461" duration="5554000" />
+      <workItem from="1547068455736" duration="178000" />
+      <workItem from="1547133705042" duration="1705000" />
+      <workItem from="1547140194355" duration="2121000" />
     </task>
     <task id="LOCAL-00001" summary="Ex01 Done">
       <created>1546633177939</created>
@@ -269,7 +190,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42020000" />
+    <option name="totallyTimeSpent" value="46024000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -281,10 +202,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="790" y="0" width="1770" height="1440" extended-state="0" />
+    <frame x="761" y="0" width="1799" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936628" visible="true" weight="0.2800926" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936628" visible="true" weight="0.2561184" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5006337" side_tool="true" weight="0.23130034" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -491,12 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex06/HumanB.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex06/HumanA.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/d01/ex01/ex01.cpp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -514,24 +429,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex00/Pony.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex00/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/d01/ex06/HumanA.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/d01/ex06/Weapon.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex06/HumanA.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex06/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex06/HumanB.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d01/ex06/HumanB.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -542,24 +470,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex06/main.cpp">
+    <entry file="file://$PROJECT_DIR$/d01/ex00/Pony.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="420">
+          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex06/HumanB.hpp">
+    <entry file="file://$PROJECT_DIR$/d01/ex00/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
+        <state relative-caret-position="420">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d01/ex06/HumanA.hpp">
+    <entry file="file://$PROJECT_DIR$/d02/ex00/Fixed.class.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d02/ex00/Fixed.class.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
         </state>
       </provider>
     </entry>

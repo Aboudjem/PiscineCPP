@@ -1,6 +1,5 @@
 #include "Weapon.hpp"
 
-
 class HumanA {
 private:
     Weapon _weapon;
