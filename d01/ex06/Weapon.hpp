@@ -1,14 +1,18 @@
-#include <iostream>
-#include "HumanA.hpp"
-#include "HumanB.hpp"
+#ifndef PROJECT_WEAPON_HPP
+#define PROJECT_WEAPON_HPP
 
+#include <string>
 
-class Weapon {
-private:
-    std::string _type;
-public:
-    std::string const getType();
-    void setType(std::string type);
-    Weapon(void);
-    ~Weapon(void);
-};
+namespace zob {
+
+	class Weapon {
+	private:
+		std::string type;
+	public:
+		Weapon(const std::string &type = "soap");
+		const std::string &getType() const;
+		void setType(const std::string &type);
+	};
+}
+
+#endif //PROJECT_WEAPON_HPP
