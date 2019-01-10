@@ -25,5 +25,5 @@ void ponyOnTheHeap(){
 int main () {
 	ponyOnTheStack();
 	ponyOnTheHeap();
-	return (0)
+	return (0);
 }
