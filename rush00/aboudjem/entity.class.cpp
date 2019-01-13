@@ -113,3 +113,15 @@ void				Entity::setEntity(unsigned int hp, unsigned int size, unsigned int hasWe
 	this->_hasWeapon = hasWeapon;
 	this->_speed = speed;
 }
+
+
+
+int					Entity::getTime(void) const
+{
+	return (this->_time);
+}
+
+void				Entity::setTime(unsigned int time)
+{
+	this->_time = time;
+}

@@ -4,7 +4,7 @@
 Game::Game(void)
 {
 	this->_score = 0;
-	this->_time = 0;
+	time(&_time);
 	this->_lives = 1;
 	this->_difficult = 1;
 	this->_background = 1;
@@ -46,7 +46,7 @@ void				Game::setScore(unsigned int score)
 
 int					Game::getTime(void) const
 {
-	return (this->_time);
+	return (time(NULL) - this->_time);
 }
 
 void				Game::setTime(int time)

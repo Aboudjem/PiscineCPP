@@ -27,6 +27,8 @@ public:
 	int				getSpeed(void) const;
 	void			setSpeed(int speed);
 	void			setEntity(unsigned int hp, unsigned int size, unsigned int hasWeapon, unsigned int speed);
+	int				getTime(void) const;
+	void			setTime(unsigned int time);
 protected:
 	void			initialize(void);
     std::string     _name;
@@ -36,6 +38,7 @@ protected:
     int             _x;
     unsigned int    _hasWeapon;
     unsigned int    _speed;
+    clock_t			_time;
 };
 
 #endif

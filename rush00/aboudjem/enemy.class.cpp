@@ -47,13 +47,33 @@ void    Enemy::getWeapon(void){
 }
 
 void   Enemy::move() {
-    int x = getX();
-
+    srand(time(NULL));
+    int t = (rand() % 2);
+    int x = getX() - 1;
+    int y = getY();
     Entity::setX(x--);
-    std::cout << getX() << std::endl;
     if (this->_canMove == 1)
-        std::cout << "Can move Horizontally" << std::endl;
+    {
+      t  == 0 ? y-- : y++;
+
+        Entity::setY(y);
+    std::cout << getY() << std::endl;
+
+    }
 }
+
+void Enemy::appear() {
+    Entity::setY((rand() % 25));
+    Entity::setX((rand() % 101));
+    std::cout << this->_name << " appears at Y = " << Entity::getY() << std::endl;
+}
+
+void Enemy::disappear() {
+
+    std::cout << this->_name << " has gone." << std::endl;
+//    delete this;
+}
+
 
 void Enemy::dead(Game *score) {
     unsigned int temp = score->getScore();

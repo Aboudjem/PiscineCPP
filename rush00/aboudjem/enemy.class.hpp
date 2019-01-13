@@ -15,6 +15,8 @@ public:
     void    setEnemy(std::string name, int canMove, unsigned int skin, int boss, int pts);
     void    displayEnemy(void);
     void    dead(Game *score);
+    void    disappear(void);
+    void    appear(void);
 private:
     std::string     _name;
     int             _canMove;

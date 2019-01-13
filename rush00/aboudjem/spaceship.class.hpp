@@ -4,6 +4,7 @@
 #include <iostream>
 #include "entity.class.hpp"
 #include "weapon.class.hpp"
+#include "Map.class.hpp"
 
 
 class Spaceship : public Entity {
@@ -14,12 +15,17 @@ public:
     Spaceship &operator=(Spaceship const &rhs);
     Spaceship(Spaceship const &src);
 
+
     Weapon			getWeapon(void) const;
     void			setWeapon(Weapon &weapon);
+    char			getSkin(void) const;
+    void			setSkin(char skin);
     void			Shoot(void);
-    void            Move(void);
+    int				Move(int key, int init_y, Map *map);
+    void			Print(Map *map);
 private:
     Weapon _weapon;
+    char			_skin;
 };
 
 #endif //SPACESHIP_CLASS_HPP

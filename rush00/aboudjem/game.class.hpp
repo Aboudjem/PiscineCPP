@@ -2,6 +2,7 @@
 #define GAME_CLASS_HPP
 
 #include <ctime>
+//#include <time.h>
 
 class Game {
 public:
